@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  iosstudy4-1
 //
-//
+//  4주차 실습
 //
 
 import UIKit
